@@ -1,6 +1,15 @@
 # FizzBuzz
 
-**TODO: Add description**
+**Problem:**
+
+- Multiples of 3 replaced by Fizz
+- Multiples of 5 replaced by Buzz
+- Multiples of 3 and 5 replaced by FizzBuzz
+
+[1, 2, 3, 4, 5, 15] -> [1, 2, Fizz, 4, Buzz, FizzBuzz]
+[1, 2, 4, 8, 10] -> [1, 2, 4, Buzz]
+
+This feature reads a list from some file and if doesn't exist, we show an error mensage for user.
 
 ## Installation
 
